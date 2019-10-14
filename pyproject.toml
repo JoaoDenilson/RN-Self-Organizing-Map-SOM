@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+imageio = "*"
+matplotlib = "*"
+minisom = "*"
+numpy = "*"
+pandas = "*"
+python = "*"
+sklearn = "*"
